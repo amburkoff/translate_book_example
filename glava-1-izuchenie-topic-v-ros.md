@@ -41,3 +41,12 @@ $$
 
 Пример оформления ссылки [google](https://google.com) или [яндекс](https://ya.ru)
 
+```text
+$ rostopic echo /rosout
+результат вывода
+ыва
+ываыва
+ыаыа
+ывпаыа
+```
+
