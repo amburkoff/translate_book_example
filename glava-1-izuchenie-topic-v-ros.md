@@ -39,5 +39,5 @@ $$
 a = b^2
 $$
 
-
+Пример оформления ссылки [google](https://google.com) или [яндекс](https://ya.ru)
 
